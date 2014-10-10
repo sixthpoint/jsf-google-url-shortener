@@ -1,4 +1,4 @@
-package com.apress.projsf2html5.chapter6.beans;
+package com.sixthpoint.view;
 
 import javax.inject.Named;
 import javax.enterprise.context.SessionScoped;
